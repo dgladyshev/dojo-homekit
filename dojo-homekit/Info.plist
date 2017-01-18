@@ -32,6 +32,8 @@
 	</array>
 	<key>UIStatusBarHidden</key>
 	<false/>
+	<key>NSHomeKitUsageDescription</key>
+	<string>I need your car, your boots and your HomeKit</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
